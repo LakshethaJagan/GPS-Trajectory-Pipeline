@@ -106,7 +106,6 @@ GPS_Universal_Framework/
 
 - **Institution:** IIT Madras
 - **Department:** Transportation and Mobility
-- **Project:** MBRDI (Mercedes-Benz Research and Development India)
 - **Period:** April 2026 – June 2026
 - **Intern:** Lakshetha, B.E. CSE, Chennai Institute of Technology (2024–2028)
 
