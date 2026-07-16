@@ -60,27 +60,6 @@ Streamlit · Plotly · Matplotlib · openpyxl
 
 ---
 
-## Project Structure
-
-GPS_Universal_Framework/
-├── data/
-│   ├── raw/          ← place your CSV files here
-│   ├── cleaned/      ← auto-generated cleaned CSVs
-│   └── matched/      ← map matched route outputs
-├── src/
-│   ├── pipeline_core.py          ← load, clean, UKF, trips
-│   ├── analytics/
-│   │   ├── visualize.py          ← 5 maps + 2 charts
-│   │   └── bus_stop_compliance.py← compliance engine
-│   └── dashboard/
-│       └── app.py                ← Streamlit dashboard
-├── reports/          ← CSV reports per file
-├── output/           ← HTML maps per file
-├── config.py         ← only file you edit for new datasets
-├── run_pipeline.py   ← single entry point
-└── requirements.txt
----
-
 ## IO Sensor Integration (Teltonika specific)
 
 | Column | Meaning | Used for |
